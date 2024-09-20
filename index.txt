@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <title>Redirecting...</title>
+    <script>
+        window.location.href = "https://allocatedense.com/ut6f4m8ecp?key=b3e1e09782101c7d31f2050b1a30c90f";
+    </script>
+</head>
+<body>
+    <p>আপনাকে রিডাইরেক্ট করা হচ্ছে... দয়া করে অপেক্ষা করুন।</p>
+</body>
+</html>
